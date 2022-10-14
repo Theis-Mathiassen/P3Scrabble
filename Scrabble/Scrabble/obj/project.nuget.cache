@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "6r2gaBID8hmfbn4bXsojge/3N35bm04deCZJltY5vEThjUn0d0Zh3Psm68HSsrIuLQwY4KOg+r4cQmFdtk6kQw==",
+  "dgSpecHash": "5pZXKz4vbXqI1Xc4Dm0pHWP9loT5bFg84jhoM7zvZZhVpVgvcyQNlOc5/VVNblntdTeknMCVM0Z05tWMq7M3dQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\theis\\source\\repos\\P3Scrabble\\Scrabble\\Scrabble\\Scrabble.csproj",
   "expectedPackageFiles": [
@@ -33,7 +33,7 @@
     "C:\\Users\\theis\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
     "C:\\Users\\theis\\.nuget\\packages\\system.text.encodings.web\\6.0.0\\system.text.encodings.web.6.0.0.nupkg.sha512",
     "C:\\Users\\theis\\.nuget\\packages\\system.text.json\\6.0.0\\system.text.json.6.0.0.nupkg.sha512",
-    "C:\\Users\\theis\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\6.0.9\\microsoft.netcore.app.runtime.mono.browser-wasm.6.0.9.nupkg.sha512"
+    "C:\\Users\\theis\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\6.0.10\\microsoft.netcore.app.runtime.mono.browser-wasm.6.0.10.nupkg.sha512"
   ],
   "logs": []
 }
